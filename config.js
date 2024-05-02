@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QUEENNILU;;;p60WUL6S#4GsKgS6bdG3_4fybm9grUXvS1D28k1ThztsY5VwoeeM' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;MukijCCI#OoTMfWX2h1lMZzHiMNvjDMXq7xtUXCwu6-5rmEgEZfg' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = 'mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority'
+global.POSTGRESQL_URL = 'postgres://naveed_user:jR4C57sJsFIBNO18OxxD6CtqzOvhTXYk@dpg-dn5D1nug2bec738cqi4g-a.frankfurt-postgres.render.com/naveed'
 
  
 
@@ -25,11 +25,11 @@ global.POSTGRESQL_URL = 'mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.ne
 
 global.OWNER_NUMBER = '254115530969'
 
-global.OWNER_NAME = 'vicky_X'
+global.OWNER_NAME = 'victor_X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = 'false' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
@@ -41,23 +41,23 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'vicky ɴɪʟᴜ'
+global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
 
-global.FOOTER = 'vicky  2023'
+global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@arusei 🤹‍♂️' //sticker
+global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'arusei vicky  © 2023' // Caption
+global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = 'i am alive thanks to arusei' // Set Alive Message
+global.ALIVE_MESSAGE = 'i am alive' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
